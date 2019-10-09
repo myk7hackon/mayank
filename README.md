@@ -1,2 +1,2 @@
 # mayank
-hello world
+print('hello world')
